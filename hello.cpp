@@ -2,6 +2,6 @@
 
 void main()
 {
-    int a = 1;
+    int a = 12;
     printf("hello GitHub");
 }
